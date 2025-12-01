@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+<!-- ************************ -->
+<!--         Messages         -->
+<!-- ************************ -->
+
+  <data name="ru_project_title"><![CDATA[mekteptun2popitka]]></data>
+
+
+  <data name="ru_panogroup28_title"><![CDATA[Group 28]]></data>
+
+  <data name="ru_pano42_title"><![CDATA[dala]]></data>
+  <data name="ru_spotpolygon119_tooltip"><![CDATA[1kolidor1]]></data>
+  <data name="ru_pano10_title"><![CDATA[1kolidor1]]></data>
+  <data name="ru_spotpolygon133_tooltip"><![CDATA[dala]]></data>
+  <data name="ru_spotpolygon134_tooltip"><![CDATA[1kolidor2]]></data>
+  <data name="ru_pano12_title"><![CDATA[1kolidor3]]></data>
+  <data name="ru_spotpolygon142_tooltip"><![CDATA[1kolidor6]]></data>
+  <data name="ru_spotpolygon143_tooltip"><![CDATA[1kolidor4]]></data>
+  <data name="ru_pano19_title"><![CDATA[ashananovi]]></data>
+  <data name="ru_spotpolygon154_tooltip"><![CDATA[1kolidor5]]></data>
+  <data name="ru_pano24_title"><![CDATA[uchitelski]]></data>
+  <data name="ru_spotpolygon149_tooltip"><![CDATA[direktor2]]></data>
+  <data name="ru_spotpolygon150_tooltip"><![CDATA[1kolidor5]]></data>
+  <data name="ru_pano22_title"><![CDATA[direktor2]]></data>
+  <data name="ru_spotpolygon151_tooltip"><![CDATA[uchitelski]]></data>
+  <data name="ru_pano11_title"><![CDATA[1kolidor2]]></data>
+  <data name="ru_spotpolygon135_tooltip"><![CDATA[tennis]]></data>
+  <data name="ru_spotpolygon136_tooltip"><![CDATA[aktaldi]]></data>
+  <data name="ru_spotpolygon137_tooltip"><![CDATA[1kolidor6]]></data>
+  <data name="ru_spotpolygon138_tooltip"><![CDATA[1kolidor1]]></data>
+  <data name="ru_pano23_title"><![CDATA[tennis]]></data>
+  <data name="ru_spotpolygon139_tooltip"><![CDATA[1kolidor2]]></data>
+  <data name="ru_pano21_title"><![CDATA[direktor1]]></data>
+  <data name="ru_spotpolygon153_tooltip"><![CDATA[1kolidor4]]></data>
+  <data name="ru_pano13_title"><![CDATA[1kolidor4]]></data>
+  <data name="ru_spotpolygon144_tooltip"><![CDATA[1kolidor5]]></data>
+  <data name="ru_spotpolygon145_tooltip"><![CDATA[1kolidor3]]></data>
+  <data name="ru_spotpolygon152_tooltip"><![CDATA[direktor1]]></data>
+  <data name="ru_pano14_title"><![CDATA[1kolidor5]]></data>
+  <data name="ru_spotpolygon146_tooltip"><![CDATA[1kolidor4]]></data>
+  <data name="ru_spotpolygon147_tooltip"><![CDATA[uchitelski]]></data>
+  <data name="ru_spotpolygon148_tooltip"><![CDATA[ashananovi]]></data>
+  <data name="ru_pano15_title"><![CDATA[1kolidor6]]></data>
+  <data name="ru_spotpolygon140_tooltip"><![CDATA[1kolidor3]]></data>
+  <data name="ru_spotpolygon141_tooltip"><![CDATA[1kolidor2]]></data>
+
+  <data name="ru_panogroup33_title"><![CDATA[Group 33]]></data>
+
+  <data name="ru_pano18_title"><![CDATA[aldibibilo]]></data>
+  <data name="ru_spotpolygon163_tooltip"><![CDATA[aktaldi]]></data>
+  <data name="ru_pano40_title"><![CDATA[kalidor23]]></data>
+  <data name="ru_spotpolygon161_tooltip"><![CDATA[aktaldi]]></data>
+  <data name="ru_spotpolygon162_tooltip"><![CDATA[chakmate]]></data>
+  <data name="ru_pano17_title"><![CDATA[aktaldi]]></data>
+  <data name="ru_spotpolygon158_tooltip"><![CDATA[1kolidor2]]></data>
+  <data name="ru_spotpolygon159_tooltip"><![CDATA[aldibibilo]]></data>
+  <data name="ru_spotpolygon160_tooltip"><![CDATA[kalidor23]]></data>
+  <data name="ru_pano20_title"><![CDATA[chakmate]]></data>
+  <data name="ru_spotpolygon165_tooltip"><![CDATA[2kolidor2]]></data>
+  <data name="ru_spotpolygon166_tooltip"><![CDATA[kalidor23]]></data>
+  <data name="ru_pano16_title"><![CDATA[2kolidor2]]></data>
+  <data name="ru_spotpolygon164_tooltip"><![CDATA[chakmate]]></data>
+
+
+
+
+
+
+  <data name="ru_contextmenuopenFsLabel"><![CDATA[Enter Fullscreen]]></data>
+  <data name="ru_contextmenucloseFsLabel"><![CDATA[Exit Fullscreen]]></data>
+  <data name="ru_contextmenunormallabel"><![CDATA[Normal View]]></data>
+  <data name="ru_contextmenuarchitecturallabel"><![CDATA[Architectural View]]></data>
+  <data name="ru_contextmenulittleplanetlabel"><![CDATA[Little Planet View]]></data>
+
+
+  <data name="ru_vr_setup_hmd0"><![CDATA[SELECT YOUR HMD]]></data>
+  <data name="ru_vr_setup_advanced"><![CDATA[ADVANCED SETTINGS]]></data>
+  <data name="ru_vr_setup_title"><![CDATA[WEB VR SETTINGS]]></data>
+  <data name="ru_vr_setup_dvn1"><![CDATA[Device:]]></data>
+  <data name="ru_vr_setup_siz1"><![CDATA[Screen size:]]></data>
+  <data name="ru_vr_setup_ipd1"><![CDATA[IPD:]]></data>
+  <data name="ru_vr_setup_hmd1"><![CDATA[HMD:]]></data>
+  <data name="ru_vr_setup_hmd3"><![CDATA[Customize]]></data>
+  <data name="ru_vr_setup_cal"><![CDATA[Calibrate gyroscope]]></data>
+  <data name="ru_vr_setup_sav"><![CDATA[SAVE]]></data>
+  <data name="ru_vr_setup_rst"><![CDATA[RESET]]></data>
+  <data name="ru_vr_setup_simple"><![CDATA[SIMPLE]]></data>
+  <data name="ru_vr_setup_cls"><![CDATA[CLOSE]]></data>
+  <data name="ru_vr_setup_m31"><![CDATA[HMD SETTINGS]]></data>
+  <data name="ru_vr_setup_fov1"><![CDATA[FOV:]]></data>
+  <data name="ru_vr_setup_dst1"><![CDATA[Distortion:]]></data>
+  <data name="ru_vr_setup_d2tx"><![CDATA[Distortion 2:]]></data>
+  <data name="ru_vr_setup_vig1"><![CDATA[Vignette:]]></data>
+  <data name="ru_vr_setup_cac1"><![CDATA[Chromatic aberration:]]></data>
+  <data name="ru_vr_setup_olp1"><![CDATA[Overlap:]]></data>
+  <data name="ru_vr_setup_m35"><![CDATA[RETURN]]></data>
+  <data name="ru_vr_setup_cb1"><![CDATA[GYROSCOPE]]></data>
+  <data name="ru_vr_setup_cb2"><![CDATA[Place the device on a flat and[br]stable surface and tab CALIBRATE[br]to correct a gyroscope drifting.]]></data>
+  <data name="ru_vr_setup_cb3"><![CDATA[CALIBRATE]]></data>
+  <data name="ru_vr_setup_cb4"><![CDATA[RESET]]></data>
+  <data name="ru_vr_setup_cb5"><![CDATA[RETURN]]></data>
+  <data name="ru_vr_setup_cb6"><![CDATA[Calibrating...]]></data>
+  <data name="ru_vr_setup_cb7"><![CDATA[Successful calibration]]></data>
+  <data name="ru_vr_setup_cb8"><![CDATA[Calibration failed]]></data>
+  <data name="ru_vr_setup_unavailable"><![CDATA[VR mode[br]is unavailable on your device]]></data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</krpano>
